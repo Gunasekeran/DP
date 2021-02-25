@@ -1,2 +1,2 @@
 # DP
-Distributed Programming
+Distributed Programming Course
